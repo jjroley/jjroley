@@ -1,4 +1,8 @@
-[![jjroley's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjroley)](https://github.com/anuraghazra/github-readme-stats)
+#### Hi there, I'm Jonathan
+
+An avid programmer always excited to learn.
+
+Some random tech I've worked with: React, Ruby, PHP/WordPress, Node.js, Next.js, Tailwind
 
 <!--
 **jjroley/jjroley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
