@@ -4,7 +4,7 @@ An avid programmer always excited to learn.
 
 Some random tech I've worked with: React, Ruby, PHP/WordPress, Node.js, Next.js, Tailwind
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjroley)](https://github.com/jjroley/github-readme-stats)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjroley)](https://github.com/jjroley)
 <!--
 **jjroley/jjroley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
