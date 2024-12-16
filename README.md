@@ -2,8 +2,9 @@
 
 An avid programmer always excited to learn.
 
-Some random tech I've worked with: React, Ruby, PHP/WordPress, Node.js, Next.js, Tailwind
+My favorite technologies: React, Node.js, Next.js, TailwindCSS.
 
+I've also worked extensively with PHP and WordPress.
 <!--
 **jjroley/jjroley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
